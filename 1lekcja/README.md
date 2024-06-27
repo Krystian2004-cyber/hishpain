@@ -129,7 +129,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 - [x] Add image
-- [ ] Add anotbher image
+- [ ] Add another image
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
